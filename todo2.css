@@ -1,1 +1,16 @@
-
+article1>li { 
+  background-color: red;
+  color: white;
+}
+article2>li {
+  background-color: orange;
+  color: brown;
+}
+article3>li {
+  background-color: grey;
+  color: black;
+}
+article4>li {
+  background-color: black;
+  color: cyan;
+}
