@@ -22,3 +22,9 @@ h.name {
 img.me {
   top: 100px;
 }
+
+section#left { float: left;
+width: 50%;
+background-color: ;
+color: ;
+}
