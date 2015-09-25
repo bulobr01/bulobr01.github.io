@@ -13,3 +13,12 @@ overflow: auto;
 nav li { 
   display: inline;
 }
+p.content {
+  top: 100px;
+}
+h.name {
+  top: 100px;
+}
+img.me {
+  top: 100px;
+}
