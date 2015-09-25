@@ -2,7 +2,7 @@ main {
   position: relative;
 }
 nav {
-position: fixed;
+position: static;
 background-color: red;
 height: 40px;
 width: 100%;
