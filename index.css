@@ -6,7 +6,7 @@ body {
   margin: 0px;
 }
 nav {
-position: static;
+position: fixed;
 background-color: red;
 height: 40px;
 width: 100%;
