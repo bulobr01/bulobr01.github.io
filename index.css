@@ -31,7 +31,8 @@ img#swag {
 
 section#left { float: left;
 width: 50%;
-background-color: ;
+background-color: orange;
+height: 100%;
 color: ;
 }
 section#right {float: right;
