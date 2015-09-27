@@ -36,6 +36,7 @@ color: ;
 }
 section#right {float: right;
 width: 50%;
+height: 100%;
 background-color: lightblue ;
 color: ;
 }
