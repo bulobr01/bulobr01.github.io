@@ -45,8 +45,8 @@ margin: ;
 color: ;
 }
 header {
-position: fixed;
-background-color: #bbbbbb;
+position: static;
+background-color: black;
 top: 0px;
 left: 0px;
 width: 100%;
