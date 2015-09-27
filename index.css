@@ -9,6 +9,7 @@ width: 100%;
 margin-top: 20px;
 margin-bottom: 0px;
 overflow: auto;
+text-align: center;
 }
 nav li { 
   display: inline;
