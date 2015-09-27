@@ -1,6 +1,10 @@
 main {
   position: relative;
 }
+body {
+  background-color: black;
+  margin: 0px;
+}
 nav {
 position: static;
 background-color: red;
@@ -35,6 +39,7 @@ width: 50%;
 background-color: orange;
 height: 120%;
 color: ;
+margin: 0px;
 }
 section#right {float: right;
 width: 50%;
@@ -42,6 +47,7 @@ height: 120%;
 background-color: lightblue ;
 text-align: center;
 color: ;
+margin: 0px;
 }
 header {
 position: static;
