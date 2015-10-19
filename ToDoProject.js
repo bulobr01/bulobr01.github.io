@@ -1,8 +1,12 @@
 
 moveText= function() {
-var litext = document.createTextNode(document.querySelector("#willis").value);
+var litext = document.createTextNode(document.querySelector("#yup").value);
  var li= document.createElement("li");
-  var li.appendChild(litext);
+ var cbox= document.createElement("input");
+ cbox.type="checkbox";
+  li.appendChild(cbox);
+  li.appendChild(litext);
+  li.className= document.querySelector("#priority").value;
   document.body.appendChild(li);
  
  
