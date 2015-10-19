@@ -1,9 +1,9 @@
 
 moveText= function() {
  litext = document.querySelector("#willis");
- litext= document.createTextNode("experiment")
- li= document.createElement("li");
-  li.appendChild(litext);
+ var litext= document.createTextNode("experiment")
+ var li= document.createElement("li");
+  var li.appendChild(litext);
   document.body.appendChild(li);
  
  
