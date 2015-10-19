@@ -5,7 +5,7 @@ section#willis {
   width: 400px;
   margin: 50px;
   float: middle;
-  text-align: center;
+  align: center;
   
 }
 section#results {
