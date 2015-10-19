@@ -9,3 +9,7 @@ section#willis {
 section#results {
   postion: relative;
 }
+button#add
+{
+  float: right;
+}
