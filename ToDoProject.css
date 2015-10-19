@@ -4,11 +4,13 @@ section#willis {
   height: 300px;
   width: 400px;
   margin: 50px;
+  float: middle;
   
 }
 section#results {
   postion: relative;
-  float: center;
+  float: middle;
+  text-align: center;
   
 }
 button#Add
