@@ -7,6 +7,7 @@ var litext = document.createTextNode(document.querySelector("#textbox").value);
   li.appendChild(cbox);
   li.appendChild(litext);
   li.className= document.querySelector("#priority").value;
+  myUl.appendChild(Myli);
   document.body.appendChild(li);
  
  
