@@ -21,3 +21,13 @@ button#Add
 h1#stuff {
   text-align: center;
 }
+
+option#orange {
+  color: orange;
+}
+option#green {
+  color: green;
+}
+option#grey {
+  color: grey;
+}
