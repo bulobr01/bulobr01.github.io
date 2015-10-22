@@ -17,7 +17,7 @@ var litext = document.createTextNode(document.querySelector("#textbox").value);
   
    menu= document.querySelector("#priority”);
   li.classList.add(menu.value);
-  document.body.menu.appendChild(li);
+  
  
  
  
