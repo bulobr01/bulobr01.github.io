@@ -10,6 +10,7 @@ var litext = document.createTextNode(document.querySelector("#textbox").value);
  cbox.type="checkbox";
   li.appendChild(cbox);
   li.appendChild(litext);
+  li.appendChild(menu);
  UL = document.querySelector("#tasklist");
  UL.appendChild(li);
   document.body.ul.appendChild(li);
