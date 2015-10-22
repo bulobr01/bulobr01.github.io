@@ -14,7 +14,7 @@ var litext = document.createTextNode(document.querySelector("#textbox").value);
  UL.appendChild(li);
   li.className= document.querySelector("#priority").value;
   li.classList.add(myPriority.value);
-  document.body.select.appendChild(li);
+  document.body.priority.appendChild(li);
   document.body.ul.appendChild(li);
  
  
