@@ -14,6 +14,10 @@ var litext = document.createTextNode(document.querySelector("#textbox").value);
  UL = document.querySelector("#tasklist");
  UL.appendChild(li);
   document.body.ul.appendChild(li);
+  
+   menu= document.querySelector("#priority”);
+  li.classList.add(menu.value);
+  document.body.menu.appendChild(li);
  
  
  
