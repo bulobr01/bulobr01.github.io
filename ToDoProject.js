@@ -1,4 +1,4 @@
-addTask = function() {
+moveText = function() {
 //var priority = document.querySelector('#priority').option.className;
 var litext = document.createTextNode(document.querySelector('#taskenter').value);
 var listitem = document.createElement("li");
