@@ -21,16 +21,9 @@ button#Add
 }
 h1#stuff {
   text-align: center;
-}
-
-option#orange {
-  color: orange;
-}
-option#green {
-  color: green;
-}
-option#grey {
-  color: grey;
+  
+li.High {
+  color: yellow;
 }
 
 li.Medium {
@@ -38,4 +31,11 @@ li.Medium {
 }
 li.Low {
   color: gray;
+}
+.done {
+    color: white;
+    text-decoration: line-through;
+}
+#unlist {
+    list-style: none;
 }
