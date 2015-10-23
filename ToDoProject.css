@@ -22,14 +22,14 @@ button#Add
 h1#stuff {
   text-align: center;
   
-li.High {
+.High {
   color: yellow;
 }
 
-li.Medium {
+.Medium {
   color: orange;
 }
-li.Low {
+.Low {
   color: gray;
 }
 .done {
