@@ -1,4 +1,4 @@
-section#willis {
+section#dobox {
   background-color: blue;
   position: relative;
   height: 300px;
@@ -9,7 +9,7 @@ section#willis {
   align: center;
   
 }
-section#results {
+section#enterbox {
   postion: relative;
   float:;
   text-align: center;
