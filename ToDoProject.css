@@ -32,3 +32,10 @@ option#green {
 option#grey {
   color: grey;
 }
+
+li.Medium {
+  color: orange;
+}
+li.low {
+  color: gray;
+}
